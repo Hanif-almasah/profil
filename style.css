@@ -1,0 +1,48 @@
+#jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(184, 203, 255);
+}
+.img {
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  background-color: rgb(179, 179, 179);
+  border: 5px gray solid;
+  margin: auto;
+}
+.display-6 {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+#about {
+  padding-top: 6rem;
+  padding-bottom: -1rem;
+  background-color: #f3f4f5;
+}
+.col2 {
+  padding-top: 1rem;
+}
+#project {
+  padding-top: 5rem;
+  background-color: rgb(184, 203, 255);
+}
+.card {
+  padding: 10px;
+}
+.card1 {
+  padding: 10px;
+}
+#contact {
+  background-color: #f3f4f5;
+}
+a {
+  font-style: bold;
+  color: white;
+  text-decoration: none;
+}
+p {
+  margin: 0%;
+}
+section {
+  padding-top: 6rem;
+}
